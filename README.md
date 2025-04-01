@@ -21,7 +21,7 @@ The dataset used in this project comes from **Google BigQuery's public data**:
 This project aims to **enhance customer experience** by providing **tailored recommendations** based on data-driven insights.  
 
 ## 🛠️ Technologies Used  
-- Python (Pandas, NumPy, Scikit-learn)  
+- Python (Pandas, NumPy, Matplotlib)  
 - Google BigQuery  
 
 ## 🔗 Connect  
